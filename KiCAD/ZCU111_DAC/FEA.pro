@@ -1,4 +1,4 @@
-update=Monday, June 08, 2020 at 07:03:23 PM
+update=Wednesday, June 17, 2020 at 05:44:22 PM
 version=1
 last_client=eeschema
 [cvpcb]
